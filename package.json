@@ -24,7 +24,8 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "vue-router": "^3.4.9",
-        "vuejs-datatable": "^2.0.0-alpha.7"
+        "mdbvue": "^6.7.2",
+        "vue-good-table": "^2.21.2",
+        "vue-router": "^3.4.9"
     }
 }
